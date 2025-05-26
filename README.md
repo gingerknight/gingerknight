@@ -1,7 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ryan, or ryerye
 
-<!--
-**gingerknight/gingerknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recovering security engineer, now software developer who loves open source, building tools, and learning new technologies.
+
+## 🔭 Projects
+- 🚀 [My Static Site Generator](https://github.com/yourusername/static-site-generator)
+- 🧩 [Maze Solver](https://github.com/yourusername/maze-solver)
+
+## 📈 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Golang 🐹
+- TypeScript 🔷
+- PyGame
+- API Development
+
+## 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 
 Here are some ideas to get you started:
 
