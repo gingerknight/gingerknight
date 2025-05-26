@@ -7,7 +7,7 @@ I'm a recovering security engineer, now software developer who loves open source
 - 🧩 [Maze Solver](https://github.com/yourusername/maze-solver)
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerknight&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Golang 🐹
