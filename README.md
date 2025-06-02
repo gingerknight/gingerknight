@@ -5,6 +5,7 @@ I'm a recovering security engineer, now software developer who loves open source
 ## 🔭 Projects
 - 🚀 [My Static Site Generator](https://github.com/gingerknight/static_site_generator)
 - 🧩 [Maze Solver](https://github.com/gingerknight/maze_solver)
+- 🎒 [JQ Trainer](https://github.com/gingerknight/jq_trainer)
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerknight&show_icons=true&theme=radical)
