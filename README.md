@@ -13,21 +13,17 @@ I'm a recovering security engineer, now software developer who loves open source
 ## 🌱 Currently Learning
 - Golang 🐹
 - TypeScript 🔷
-- PyGame
-- API Development
+- Functional Programming Languages
+  - λ Haskell with Discrete Mathematics and Physics
+  - Ocaml because why not?
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+- LinkedIn - coming soon
+- BlueSky - coming soon
+- Signal - coming soon
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... `boot.dev` courses and projects
+- 🌱 I’m currently learning ... golang and haskell
+- ⚡ Fun fact: ... I used to be a knight at Medieval Times
